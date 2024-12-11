@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Killing Floor 2 - Новости</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .news-item {
+            margin-bottom: 20px;
+        }
+        .news-item h2 {
+            color: #d32f2f;
+        }
+        .news-item p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Killing Floor 2 - Новости</h1>
+    </header>
+
+    <div class="container">
+        <div class="news-item">
+            <h2>Обновление 1.2 вышло!</h2>
+            <p>Новое оружие, новые карты и больше крови! Не пропустите детали в последнем обновлении.</p>
+            <p><small>Дата: 10 декабря 2024</small></p>
+        </div>
+
+        <div class="news-item">
+            <h2>Хеллоуинский ивент завершен</h2>
+            <p>Спасибо всем, кто участвовал в нашем ивенте. Подробности о победителях доступны на форуме.</p>
+            <p><small>Дата: 5 ноября 2024</small></p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Killing Floor 2 Community</p>
+    </footer>
+</body>
+</html>
